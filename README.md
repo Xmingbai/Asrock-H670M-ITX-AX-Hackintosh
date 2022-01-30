@@ -1,5 +1,8 @@
 # Asrock-H670M-ITX-AX-Hackintosh
 
+测评视频链接：
+
+淘宝链接：
 
 # 本机配置清单
 
