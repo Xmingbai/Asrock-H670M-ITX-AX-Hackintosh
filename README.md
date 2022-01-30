@@ -45,7 +45,7 @@ CPU 大小核心正常识别，睿频正常，R20、R23跑分与windows基本一
 
 
 # 引导说明 
-Ver1.0 使用OC0.7.7 正式版，支持Catalina、big sur、Monterey12.1版本
+Ver1.0 使用OC0.7.7 正式版，支持Catalina、big sur、Monterey12.2版本
 
 保持最简OC配置、更新kexts至最新
 
