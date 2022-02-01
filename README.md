@@ -1,8 +1,8 @@
 # Asrock-H670M-ITX-AX-Hackintosh
 
-测评视频链接：
+测评视频链接：https://www.bilibili.com/video/BV1cL4y1472u/
 
-淘宝链接：
+淘宝链接：https://item.taobao.com/item.htm?spm=a1z10.5-c-s.w4002-23032779536.30.4e155c3eHEOYpr&id=667663517240
 
 # 本机配置清单
 
